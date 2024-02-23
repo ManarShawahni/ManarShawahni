@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Manar</h1>
-<h3 align="center">CSE</h3>
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
+<h1 align="center">Hi 👋, I'm Manar <img align="center" alt="hello" src="https://media.tenor.com/S9ey-knwXm4AAAAi/hello-hi.gif" width="100" height="90"/></h1>
+💫 About Me:
+<h3 align="center">👨‍💻 CSE</h3>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/WC8oc8aG3xgAAAAi/work-office.gif?fbclid=IwAR2sMXLKuevxsIMIMS1gNFjZA5FpU2zGyndGKLFGgpCWJHmnizp8dPRpho0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manarshawahni&label=Profile%20views&color=0e75b6&style=flat" alt="manarshawahni" /> </p>
 
 - 📫 How to reach me **manarshawahnii@gmail.com**
+
+🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manarshawahni/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
