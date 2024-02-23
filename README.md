@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manar <img align="center" alt="hello" src="https://media.tenor.com/S9ey-knwXm4AAAAi/hello-hi.gif" width="100" height="90"/></h1>
+<h1 align="center">Hi <img align="center" alt="hello" src="https://media.tenor.com/S9ey-knwXm4AAAAi/hello-hi.gif" width="100" height="90"/>, I'm Manar </h1>
 
 <h3 align="left">💫 About Me:</h3>
 <p align="left">
