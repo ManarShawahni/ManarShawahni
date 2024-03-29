@@ -42,20 +42,22 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshawahni&theme=jolly&hide_border=false" alt="manarshawahni" />
-</p>
-<p> </p>
+<div align="center">
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshawahni&theme=jolly&hide_border=false" alt="manarshawahni" />
+    </p>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manarshawahni&theme=jolly&hide_border=false&show_icons=true&locale=en" alt="manarshawahni" />
-</p>
+<div align="center">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=manarshawahni&theme=jolly&hide_border=false&show_icons=true&locale=en" alt="manarshawahni" />
+    </p>
+</div>
 
-<p> </p>
+<div align="center">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshawahni&theme=jolly&hide_border=false&locale=en&layout=compact" alt="manarshawahni" />
+    </p>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshawahni&theme=jolly&hide_border=false&locale=en&layout=compact" alt="manarshawahni" />
-</p>
 
-</body>
-</html>
