@@ -3,17 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 </head>
 <body>
-
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/c5/a6/e0/c5a6e0d064a22a2f6a3caeacb4260103.gif" width="600" />
 </p>
 
-
-  
 <h1 align="center">Hi <img align="center" alt="hello" src="https://media.tenor.com/S9ey-knwXm4AAAAi/hello-hi.gif" width="100" height="90"/>, I'm Manar </h1>
 
 <h3 align="left">💫 About Me:</h3>
@@ -28,14 +24,13 @@
 <h3 align="left"> 📫 How to reach me: </h3>
 <p align="left"><a href="mailto:manarshawahnii@gmail.com">manarshawahnii@gmail.com</a></p>
 
-
 ---
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/manarshawahni) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manarshawahni/) 
 <a href="mailto:manarshawahnii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
@@ -46,7 +41,6 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshawahni&theme=jolly&hide_border=false" alt="manarshawahni" />
