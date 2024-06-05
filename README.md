@@ -16,13 +16,11 @@
 <p align="left">
 </p>
 
-<h3 align="center">👨‍💻 CSE</h3>
+<h3>👨‍💻 Computer System Engineering student</h3>
 <img align="right" alt="coding" width="400" style="border:1px solid white" src="https://media.tenor.com/WC8oc8aG3xgAAAAi/work-office.gif?fbclid=IwAR2sMXLKuevxsIMIMS1gNFjZA5FpU2zGyndGKLFGgpCWJHmnizp8dPRpho0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manarshawahni&label=Profile%20views&color=FFC0CB&style=flat" alt="manarshawahni" /> </p>
 
-<h3 align="left"> 📫 How to reach me: </h3>
-<p align="left"><a href="mailto:manarshawahnii@gmail.com">manarshawahnii@gmail.com</a></p>
 
 ---
 
@@ -40,19 +38,8 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 
-<div align="center">
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshawahni&theme=jolly&hide_border=false" alt="manarshawahni" />
-    </p>
-</div>
-
-<div align="center">
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=manarshawahni&theme=jolly&hide_border=false&show_icons=true&locale=en" alt="manarshawahni" />
-    </p>
-</div>
 
 <div align="center">
     <p align="center">
