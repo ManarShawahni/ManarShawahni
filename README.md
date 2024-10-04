@@ -39,20 +39,16 @@
 ---
   <div>
       <div>
-        <h3 align="left">Languages & Frameworks:</h3>
-        <p align="left">
+        <h3 align="center">Languages & Frameworks:</h3>
+        <p align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,c,cpp" alt="Languages & Frameworks" />
-                <br />
-                <img src="https://skillicons.dev/icons?i=java,python,matlab" alt="Languages & Frameworks" />
+                <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,c,cpp,java,python,matlab" alt="Languages & Frameworks" />
             </a>
         </p>
-        <h3 align="left">IDE & Tools:</h3>
-        <p align="left">
+        <h3 align="center">IDE & Tools:</h3>
+        <p align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=git,github,webpack,babel,vscode,androidstudio,figma,npm" alt="IDE & Tools" />
-                <br />
-                <img src="https://skillicons.dev/icons?i=linux,notion" alt="IDE & Tools" />
+                <img src="https://skillicons.dev/icons?i=git,github,webpack,babel,vscode,androidstudio,figma,npm,linux,notion" alt="IDE & Tools" />
             </a>
         </p>
     </div>
