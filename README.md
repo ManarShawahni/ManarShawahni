@@ -14,11 +14,12 @@
 
 <h3 align="left"><img align="center" alt="student" src="https://i.pinimg.com/originals/6c/50/93/6c5093883f066ff03ec6ccb4f84650f6.gif" height="45">About Me:</h3>
   <p align="left">
-        ●  I'm a Computer Systems Engineering student passionate about technology and development. 
+       ●  I'm a Computer Systems Engineering student passionate about technology and development. 
     <img align="center" alt="student" src="https://github.com/user-attachments/assets/a7537f1d-49ae-4060-8b38-500fcc8b82c4" width="40" height="40" />
   </p>
+  
   <p align="left">
-        ●  I specialize in Front-End Development, creating engaging and user-friendly web interfaces. 
+       ●  I specialize in Front-End Development, creating engaging and user-friendly web interfaces. 
     <img align="center" alt="student" src="https://i.pinimg.com/originals/22/96/fa/2296fa58b630bccdffd0dfe6303002a2.gif" width="30" height="30" />
   </p>
 
@@ -44,16 +45,18 @@
 <h3 align="left">Languages & Frameworks:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,c,cpp,java,python" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,c,cpp" alt="Languages & Frameworks" />
     <br />
-    <img src="https://skillicons.dev/icons?i=matlab" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=java,python,matlab" alt="Languages & Frameworks" />
   </a>
 </p>
 
 <h3 align="left">IDE & Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webpack,babel,vscode,androidstudio,figma,npm,linux,notion" alt="IDE & Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,webpack,babel,vscode,androidstudio,figma,npm" alt="IDE & Tools" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=linux,notion" alt="IDE & Tools" />
    </a>
 </p>
 
