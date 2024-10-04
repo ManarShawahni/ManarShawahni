@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
@@ -12,25 +12,21 @@
 
 <h1 align="center">Hi <img align="center" alt="hello" src="https://media.tenor.com/S9ey-knwXm4AAAAi/hello-hi.gif" width="100" height="90"/>, I'm Manar </h1>
 
-<h3 align="left"><img align="center" alt="student" src="https://i.pinimg.com/originals/6c/50/93/6c5093883f066ff03ec6ccb4f84650f6.gif" height="45">About Me:</h3>
+<h3 align="left">About Me:<img align="center" alt="student" src="https://i.pinimg.com/originals/6c/50/93/6c5093883f066ff03ec6ccb4f84650f6.gif" height="45"></h3>
   <p align="left">
        ●  I'm a Computer Systems Engineering student passionate about technology and development. 
-    <img align="center" alt="student" src="https://github.com/user-attachments/assets/a7537f1d-49ae-4060-8b38-500fcc8b82c4" width="40" height="40" />
   </p>
   
   <p align="left">
        ●  I specialize in Front-End Development, creating engaging and user-friendly web interfaces. 
-    <img align="center" alt="student" src="https://i.pinimg.com/originals/22/96/fa/2296fa58b630bccdffd0dfe6303002a2.gif" width="30" height="30" />
   </p>
-
-<img align="right" alt="coding" width="400" style="border:1px solid white" src="https://media.tenor.com/WC8oc8aG3xgAAAAi/work-office.gif?fbclid=IwAR2sMXLKuevxsIMIMS1gNFjZA5FpU2zGyndGKLFGgpCWJHmnizp8dPRpho0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manarshawahni&label=Profile%20views&color=FFC0CB&style=flat" alt="manarshawahni" /> </p>
 
 
 ---
 
-<h3 align="left"><img align="center" alt="social" src="https://i.pinimg.com/originals/e7/72/b3/e772b3d571574c918163db7650bf5f3f.gif" height="50">Socials:</h3>
+<h3 align="left">Socials:<img align="center" alt="social" src="https://i.pinimg.com/originals/e7/72/b3/e772b3d571574c918163db7650bf5f3f.gif" height="50"></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/manarshawahni/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -41,24 +37,28 @@
 </p>
 
 ---
+  <div>
+      <div>
+        <h3 align="left">Languages & Frameworks:</h3>
+        <p align="left">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,c,cpp" alt="Languages & Frameworks" />
+                <br />
+                <img src="https://skillicons.dev/icons?i=java,python,matlab" alt="Languages & Frameworks" />
+            </a>
+        </p>
+        <h3 align="left">IDE & Tools:</h3>
+        <p align="left">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=git,github,webpack,babel,vscode,androidstudio,figma,npm" alt="IDE & Tools" />
+                <br />
+                <img src="https://skillicons.dev/icons?i=linux,notion" alt="IDE & Tools" />
+            </a>
+        </p>
+    </div>
 
-<h3 align="left">Languages & Frameworks:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,c,cpp" alt="Languages & Frameworks" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=java,python,matlab" alt="Languages & Frameworks" />
-  </a>
-</p>
-
-<h3 align="left">IDE & Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webpack,babel,vscode,androidstudio,figma,npm" alt="IDE & Tools" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=linux,notion" alt="IDE & Tools" />
-   </a>
-</p>
+<img align="right" alt="coding" width="400" style="border:1px solid white" src="https://media.tenor.com/WC8oc8aG3xgAAAAi/work-office.gif?fbclid=IwAR2sMXLKuevxsIMIMS1gNFjZA5FpU2zGyndGKLFGgpCWJHmnizp8dPRpho0">  
+</div>
 
 ---
 
