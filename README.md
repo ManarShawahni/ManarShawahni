@@ -12,7 +12,7 @@
 
 <h1 align="center">Hi <img align="center" alt="hello" src="https://media.tenor.com/S9ey-knwXm4AAAAi/hello-hi.gif" width="100" height="90"/>, I'm Manar </h1>
 
-<h3 align="center">About Me:<img align="center" alt="student" src="https://i.pinimg.com/originals/6c/50/93/6c5093883f066ff03ec6ccb4f84650f6.gif" height="45"></h3>
+<h3 align="center">About Me:<img align="center" alt="student" src="https://i.pinimg.com/originals/6c/50/93/6c5093883f066ff03ec6ccb4f84650f6.gif" width="45" height="45"></h3>
   <p align="center">
        ●  I'm a Computer Systems Engineering student passionate about technology and development. 
   </p>
@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="center">Socials:<img align="center" alt="social" src="https://i.pinimg.com/originals/e7/72/b3/e772b3d571574c918163db7650bf5f3f.gif" height="50"></h3>
+<h3 align="center">Socials:<img align="center" alt="social" src="https://i.pinimg.com/originals/e7/72/b3/e772b3d571574c918163db7650bf5f3f.gif" width="50" height="50"></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/manarshawahni/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
