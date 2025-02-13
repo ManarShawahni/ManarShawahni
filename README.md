@@ -47,7 +47,7 @@
         <h3 align="center">Languages & Frameworks:</h3>
         <p align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,c,cpp,java,python,matlab" alt="Languages & Frameworks" />
+                <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,c,cpp,java,python,matlab,tensorflow,pytorch" alt="Languages & Frameworks" />
             </a>
         </p>
         <h3 align="center">IDE & Tools:</h3>
