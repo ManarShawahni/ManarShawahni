@@ -18,8 +18,13 @@
   </p>
   
   <p align="center">
-       ●  I specialize in Front-End Development, creating engaging and user-friendly web interfaces. 
+       ●  I specialize in <strong>Front-End Development</strong>, creating engaging and user-friendly web interfaces. 
   </p>
+  
+  <p align="center">
+       ●  I am deeply interested in <strong>Artificial Intelligence</strong>, exploring its potential to solve real-world problems and drive innovation.
+  </p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshawahni&label=Profile%20views&color=FFC0CB&style=flat" alt="manarshawahni" /> </p>
 
